@@ -10,7 +10,7 @@ print ('anna gosta de banana'.capitalize())
 print ('BRASIL' .capitalize())
 
 # removendo espaços em branco no início ou no final da string
-print(   'tainamarkelen@gmail.com' .strip())
+print('   o rato roeu a roupa ' .strip())
 
 # contagem de objetos dentro da string
 print("anna gosta de banana".count("a"))
